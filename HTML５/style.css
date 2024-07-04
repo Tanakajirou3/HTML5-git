@@ -5,7 +5,8 @@ body{
     background-color: #edede3;}
 
 h1{
-    font-size: 38px
+    font-size: 38px;
+    margin-top: 0;
 }
 
 p{
@@ -20,7 +21,14 @@ article{
     background-color: #ffffff;
     width: 900px;
     margin-left: auto;
-    margin-right: auto;}
+    margin-right: auto;
+    border: solid 1px #aaaaaa;
+    padding: 30px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
 
 /*フッター*/
 footer{
