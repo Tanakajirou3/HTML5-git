@@ -1,7 +1,8 @@
 body{
     font-family: 'メイリオ',
     'Hiragino Kaku Gothic Pro',
-    sans-serif}
+    sans-serif;
+    background-color: #edede3;}
 
 h1{
     font-size: 38px
@@ -10,3 +11,9 @@ h1{
 p{
     line-height: 1.5
 }
+
+/*ヘッダー*/
+header{background-color: #ffffff;}
+
+/*記事*/
+article{background-color: #ffffff;}
