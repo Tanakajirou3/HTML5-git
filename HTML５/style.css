@@ -22,7 +22,7 @@ article{
     width: 900px;
     margin-left: auto;
     margin-right: auto;
-    border: dashed 5px #aaaaaa;
+    border: solid 2px #aaaaaa;
     padding: 30px;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
