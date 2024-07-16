@@ -23,6 +23,7 @@ header{
     margin-bottom: 30px;
     -webkit-box-shadow: 0 1px 7px #aaaaaa;
     box-shadow: 0 1px 7px #aaaaaa;
+    padding: 5px;
 }
 
 /*記事*/
