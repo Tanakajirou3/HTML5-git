@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Chango&display=swap');
+
 body{
     font-family: 'メイリオ',
     'Hiragino Kaku Gothic Pro',
@@ -24,6 +27,12 @@ header{
     -webkit-box-shadow: 0 1px 7px #aaaaaa;
     box-shadow: 0 1px 7px #aaaaaa;
     padding-left: 10px;
+}
+
+header h1{
+    font-family: "Chango", sans-serif;
+    font-weight: 400;
+    font-style: normal;  
 }
 
 /*記事*/
