@@ -2,7 +2,9 @@ body{
     font-family: 'メイリオ',
     'Hiragino Kaku Gothic Pro',
     sans-serif;
-    background-color: #edede3;}
+    background-color: #edede3;
+    margin: 0;
+}
 
 h1{
     border-left: solid 20px blue;
@@ -16,7 +18,10 @@ p{
 }
 
 /*ヘッダー*/
-header{background-color: #ffffff;}
+header{
+    background-color: #ffffff;
+    border-bottom: solid 1px #aaaaaa;
+}
 
 /*記事*/
 article{
