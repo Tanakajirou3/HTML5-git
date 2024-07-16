@@ -6,3 +6,8 @@ https://github-html-view.azurewebsites.net/
 
 https://github.com/Tanakajirou3/HTML5-git/blob/main/HTML%EF%BC%95/news.html
 
+
+
+    border-left: solid 20px blue;
+    border-bottom: solid 5px orange;
+    
