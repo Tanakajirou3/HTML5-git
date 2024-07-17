@@ -66,3 +66,9 @@ figure.photo-center{
     margin-top: 30px;
     margin-bottom: 30px;
 }
+
+/*画像を左に配置するレイアウト*/
+figure.photo-left{
+    margin: 0;
+}
+
