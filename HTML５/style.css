@@ -76,3 +76,13 @@ figure.photo-left{
     float: left;
 }
 
+figure.photo-left.img   {width: 550px;}
+
+/*画像を右に配置するレイアウト*/
+figure.photo-right{
+    margin: 0;
+    margin-left: 20px;
+    float: right;
+}
+
+figure.photo-right.img   {width: 550px;}
