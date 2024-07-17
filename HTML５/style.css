@@ -52,13 +52,15 @@ article{
     -webkit-box-shadow: 1px 1px 3px #aaaaaa;
     box-shadow: 1px 1px 3px #aaaaaa;
     border-radius: 20px;
+    overflow: hidden;
 }
 
 /*フッター*/
 footer{
     width: 900px;
     margin-left: auto;
-    margin-right: auto;}
+    margin-right: auto;
+    clear: both;}
 
 /*画像を中央に配置するレイアウト*/
 figure.photo-center{
@@ -70,6 +72,7 @@ figure.photo-center{
 /*画像を左に配置するレイアウト*/
 figure.photo-left{
     margin: 0;
+    margin-right: 20px;
     float: left;
 }
 
