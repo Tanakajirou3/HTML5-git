@@ -70,5 +70,6 @@ figure.photo-center{
 /*画像を左に配置するレイアウト*/
 figure.photo-left{
     margin: 0;
+    float: left;
 }
 
